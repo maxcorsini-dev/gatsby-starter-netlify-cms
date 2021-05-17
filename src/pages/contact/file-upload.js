@@ -65,7 +65,7 @@ export default class Contact extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Your name
+                    Nome
                   </label>
                   <div className="control">
                     <input
@@ -95,7 +95,7 @@ export default class Contact extends React.Component {
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Send
+                    Invia
                   </button>
                 </div>
               </form>
