@@ -103,8 +103,6 @@ const Navbar = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-               </span>
-              </a>
             </div>
           </div>
         </div>
