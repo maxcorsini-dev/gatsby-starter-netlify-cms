@@ -77,7 +77,7 @@ const Navbar = class extends React.Component {
                 Contatti
               </Link>
             </div>
-            <div className="navbar-end has-text-centered">
+            <div className="column is-4 social">
                 <a title="facebook" href="https://facebook.com">
                   <img
                     src={facebook}
