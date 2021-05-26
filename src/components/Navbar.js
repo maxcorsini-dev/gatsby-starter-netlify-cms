@@ -1,15 +1,11 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
-<<<<<<< HEAD
-import logo from '../img/logo4food.svg'
-=======
 import logo from '../img/logo4food.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 import vimeo from '../img/social/vimeo.svg'
->>>>>>> 29c6eea6358af58e82f61a89271cef7b28891519
 
 const Navbar = class extends React.Component {
   constructor(props) {
