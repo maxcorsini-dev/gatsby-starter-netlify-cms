@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Social For Food
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Social For Food
+subheading: Social Media Marketing per la Ristorazione.
 mainpitch:
   title: Why Kaldi
   description: >
